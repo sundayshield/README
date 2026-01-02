@@ -1,34 +1,17 @@
-# README
-👋 Hi, I’m Sunday
+Hello, I'm Linus Yohanna
 
-Cybersecurity | Blockchain Infrastructure | AI Engineering (12-Month Intensive Learner)
+I'm building towards smart contract development with focus on security.
+My current work centers on learning Solidity fundamentals, understanding Smart Contract Vulnerabilities and writing clear, documented code
 
-I’m currently undergoing a structured hybrid training program covering:
+What I'm working towards:
+- Solidity basics and EVM concenpts
+- Writing simple smart contract
+- Studying common smart contract vulnerabilities
 
-🔹 Cybersecurity Foundations
-🔹 Networks & Cloud Security
-🔹 Blockchain Infrastructure & Smart Contracts
-🔹 AI Engineering & LLM Systems
+Work Focus
+- To build small, focused projects
+- To document what I learn and what breaks
+- To prioritize correction and clarity over speed
 
-🌱 What I’m working on:
-
-Daily learning (5 AM routine)
-
-Weekly technical projects
-
-Building my long-term tech portfolio
-
-
-🔧 Tools I’ll be learning:
-
-Linux • Python • Git • Docker • VS Code
-Ethereum • Hardhat • Solidity
-OpenAI • LangChain • Vector Databases
-Security tools (Nmap, Wireshark, Burp Suite)
-
-📘 Weekly Project Uploads:
-
-Week 1 → Coming Soon
-Week 2 → Coming Soon
-
-Let’s build something great together.
+MY BIG GOAL:
+To become a reliable Smart Contract Developer with a strong Secutiy mindset
